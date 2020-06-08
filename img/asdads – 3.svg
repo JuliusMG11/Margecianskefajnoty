@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="101" height="101" viewBox="0 0 101 101">
+  <defs>
+    <clipPath id="clip-asdads_3">
+      <rect width="101" height="101"/>
+    </clipPath>
+  </defs>
+  <g id="asdads_3" data-name="asdads – 3" clip-path="url(#clip-asdads_3)">
+    <g id="Group_61" data-name="Group 61" transform="translate(-1048 -308.012)">
+      <path id="Path_85" data-name="Path 85" d="M5148.211,140h28.768s7.538,7.126,15.454,7.126S5208.646,140,5208.646,140h26.831v89.066h-26.831s-8.3-6.563-16.214-6.563-15.454,6.563-15.454,6.563h-28.768Z" transform="translate(-4093 174)" fill="#ee2f4e" stroke="#fff100" stroke-width="4"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="7.21" cy="7.21" r="7.21" transform="translate(1109 327.794)" fill="#fff100"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="7.21" cy="7.21" r="7.21" transform="translate(1109 351.619)" fill="#fff100"/>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="7.21" cy="7.21" r="7.21" transform="translate(1109 375.445)" fill="#fff100"/>
+      <text id="Lístok" transform="translate(1081.722 361.746) rotate(-90)" fill="#fff" font-size="21" font-family="Avenir-BlackOblique, Avenir" font-weight="800" font-style="oblique"><tspan x="-29.747" y="0">Lístok</tspan></text>
+    </g>
+  </g>
+</svg>

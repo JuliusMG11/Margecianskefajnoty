@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="106" viewBox="0 0 130 106">
+  <defs>
+    <clipPath id="clip-cervenytvar">
+      <rect width="130" height="106"/>
+    </clipPath>
+  </defs>
+  <g id="cervenytvar" clip-path="url(#clip-cervenytvar)">
+    <g id="Group_274" data-name="Group 274" transform="translate(-153 -1483.164)">
+      <path id="Path_54" data-name="Path 54" d="M2979.945,266.718c25.813,0,41.048-4.294,47.169,18.364s3.788,55.473-25.25,70.708-70.759,8.3-90.9-9.769-4.348-41.113,12.9-60.938S2954.132,266.718,2979.945,266.718Z" transform="translate(-2747 1220.77)" fill="#ee2f4e"/>
+    </g>
+  </g>
+</svg>
